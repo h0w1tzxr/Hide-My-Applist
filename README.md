@@ -26,3 +26,5 @@ You can contribute translation [here](https://crowdin.com/project/hide-my-applis
 
 ## Update Log
 [Reference to the release page](https://github.com/Dr-TSNG/Hide-My-Applist/releases)  
+
+test
